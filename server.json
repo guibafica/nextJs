@@ -1,0 +1,64 @@
+{
+  "categories": [
+    {
+      "id": "hardware",
+      "title": "Hardware"
+    },
+    {
+      "id": "jogos",
+      "title": "Jogos"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "title": "Nintendo Switch",
+      "price": 2598.50,
+      "category_id": "hardware",
+      "slug": "nintendo-switch",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61-PblYntsL._AC_SL1500_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Skin Akatsuki",
+      "price": 49.99,
+      "category_id": "hardware",
+      "slug": "skin-nintendo-switch-akatsuki",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_782106-MLB42358423069_062020-O.webp"
+    },
+    {
+      "id": 3,
+      "title": "Jogo Pokemon Sword",
+      "price": 299.90,
+      "category_id": "jogos",
+      "slug": "jogo-pokemon-sword-nintendo-switch",
+      "image": "https://http2.mlstatic.com/D_NQ_NP_721244-MLB32833571592_112019-O.webp"
+    },
+    {
+      "id": 4,
+      "title": "Jogo Zelda Breath of the Wild",
+      "price": 299.90,
+      "category_id": "jogos",
+      "slug": "jogo-zelda-breath-of-the-wild-nintendo-switch",
+      "image": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/327/318/products/capa-zelda-breath-wild1-99c1d3cdbc8ec377c215993311754289-640-0.jpg"
+    }
+  ],
+  "recommended": [
+    {
+      "id": 1,
+      "title": "Nintendo Switch Split Pad Pro (Blue)",
+      "price": 499.9,
+      "category_id": "hardware",
+      "slug": "slit-pad-pro-nintendo-switch",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/61bUfFoGV2L._AC_SL1122_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Witcher III: Wild Hunt",
+      "price": 364.61,
+      "category_id": "jogos",
+      "slug": "the-witcher-iii-nintendo-switch",
+      "image": "https://a-static.mlcdn.com.br/618x463/the-witcher-iii-wild-hunt-complete-edition-switch-nintendo/bluewavesgame/22032022/31adbc7ef3da0dd653676097b8f4319d.jpg"
+    }
+  ]
+}
